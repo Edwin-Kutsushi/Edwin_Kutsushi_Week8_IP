@@ -11,8 +11,9 @@ Applying deep learning algorithms can help assist healthcare workers in identify
 6. Performing prediction using any of the two models Random forests, Ada boosted trees, and gradient boosted trees.
 7. Perform optimization on our dataset by tuning our hyperparameters
 8. Perfom Polynomial, linear and rbf kernel function to build your SVM model and then evaluate their performance and pick the kernel that performs the best.
-9. ### Data Relevance
-10. The dataset to use for this project is found by following this link: [http://bit.ly/hypothyroid_data] (Links to an external site.)].  
+9. 
+### Data Relevance
+11. The dataset to use for this project is found by following this link: [http://bit.ly/hypothyroid_data] (Links to an external site.)].  
 Below is the dataset Dataset Columns
 Age
 Sex
